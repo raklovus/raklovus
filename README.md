@@ -1,4 +1,7 @@
-<h1> hello amigos </h1> 
-🥔have a gud day
+<h1>😃 Hey!</h1>
 
-also if you re reading this you should think about your new project. I'm really serious. Do it now. 
+My name is Maksim, how are you doing?
+Oh, I forgot that's my profile. So I'm java programmer, like creating something, such as a Stone Simulator. Remember: no anime!
+
+<h2>Projects</h2>
+will be soon...
